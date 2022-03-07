@@ -1,7 +1,7 @@
 # facemeasure
 a sample code of face measurement using references
 Facemeasure.py is just a sample code
-Please to the main Link to try the Application
+Please go to the main Link of AUFASD to try the Application
 
 Link for the AUFASD : https://aufasd.ph/#/
 How to Use.
